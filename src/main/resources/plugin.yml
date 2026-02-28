@@ -1,0 +1,9 @@
+name: RayTraceAntiFreeCam
+main: ru.loyslow.antifreecam.RayTraceAntiFreeCam
+version: 1.0.0
+api-version: "1.21"
+author: loyslow
+
+permissions:
+  raytraceantifreecam.bypass:
+    default: op
